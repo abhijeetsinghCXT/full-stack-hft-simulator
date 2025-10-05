@@ -1,0 +1,28 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# C++ / CMake build artifacts
+hft-simulator/build/
+hft-simulator/CMakeUserPresets.json
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.obj
+
+# Java / Maven build artifacts
+settlement-service/settlement-service/target/
+.idea/
+*.iml
+
+# Node.js dependencies
+hft-dashboard/server/node_modules/
+hft-dashboard/client/node_modules/
+npm-debug.log
